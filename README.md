@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paridhi-kapoor" alt="paridhi-kapoor" /></a> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT,DSA,PYTHON LIBRARIES IMPLEMENTATIONS**
+- 🌱 I’m currently learning **REACT.JS,NODE.JS,EXPRESS.JS,PYTHON_FRAMEWORK-DJANGO**
 
 - 👯 I’m looking to collaborate on **OPEN source contribution project**
 
