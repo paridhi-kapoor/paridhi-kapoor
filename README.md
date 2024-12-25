@@ -11,7 +11,7 @@
   
 - 🏄‍♀️ Project 1 : [React-Portfolio](https://github.com/paridhi-kapoor/myPortfolio)
 
-- 👨‍💻 All of my projects are available at [https://github.com/paridhi-kapoor](https://github.com/paridhi-kapoor)
+- 👨‍💻 All of my other projects are available at [https://github.com/paridhi-kapoor](https://github.com/paridhi-kapoor)
 
 - 📫 How to reach me **paridhikapoor2004@gmail.com**
 
