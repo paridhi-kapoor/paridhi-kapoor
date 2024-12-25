@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **REACT.JS,NODE.JS,EXPRESS.JS,PYTHON_FRAMEWORK-DJANGO**
 
 - 👯 I’m looking to collaborate on **OPEN source contribution project**
+  
+- 🏄‍♀️ Project 1 : [React-Portfolio](https://github.com/paridhi-kapoor/myPortfolio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/paridhi-kapoor](https://github.com/paridhi-kapoor)
 
