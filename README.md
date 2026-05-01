@@ -1,32 +1,50 @@
-<h1 align="center">Hi 👋, I'm Paridhi Kapoor</h1>
-<h3 align="center">An enthusiastic Coder, FRONTEND WEB DEVELOPER from NIT KURUKSHETRA</h3>
+# Hi, I’m PARIDHI KAPOOR 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paridhi-kapoor&label=Profile%20views&color=0e75b6&style=flat" alt="paridhi-kapoor" /> </p>
+### Mechanical Engineer | Industrial Optimization & Robotics Enthusiast ⚙️
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paridhi-kapoor" alt="paridhi-kapoor" /></a> </p>
+I am a Mechanical Engineering student with a passion for bridging the gap between traditional engineering and intelligent automation. My work focuses on **Industrial Engineering**, **Supply Chain Optimization**, and **Robotics**, leveraging data-driven insights to streamline manufacturing processes and logistics.
 
-- 🌱 I’m currently learning **REACT.JS,NODE.JS,EXPRESS.JS,PYTHON_FRAMEWORK-DJANGO**
+---
 
-- 👯 I’m looking to collaborate on **OPEN source contribution project**
-  
-- 🏄‍♀️ Project 1 : [React-Portfolio](https://github.com/paridhi-kapoor/portfolio)
-- Project 2 : [virtual Assistant ](https://github.com/paridhi-kapoor/virtual_assistant)
+## 🛠️ Technical Toolkit
 
-- 👨‍💻 All of my other projects are available at [https://github.com/paridhi-kapoor](https://github.com/paridhi-kapoor)
+- **Design & Modeling:** AutoCAD (2D/3D), SolidWorks, AnyLogic.
+- **Data & Optimization:** Python (Pandas, Scikit-Learn), Demand Forecasting, Inventory Optimization.
+- **Core Engineering:** Robotics, Mechatronics, Quality Control (Six Sigma, Lean), Ergonomics.
+- **Interests:** AI-integrated manufacturing, Ambient Energy Harvesting, and Smart Systems.
 
-- 📫 How to reach me **paridhikapoor2004@gmail.com**
+---
 
-- ⚡ Fun fact **MECHANICAL ENGINEER by Degree, Coder by Skills😉😎**
+## 🏗️ Highlighted Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/paridhikapoor16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paridhikapoor16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paridhi-kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paridhi-kapoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Codenthusiast0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenthusiast0001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/paridhikapoor541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paridhikapoor541" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paridhikapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paridhikapoor" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/paridhika2fvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paridhika2fvg" height="30" width="40" /></a>
-</p>
+### 📊 Demand Forecasting & Inventory Optimization
+*Optimized logistics using data-driven insights.*
+- Developed a model using **Pandas** and **Scikit-Learn** to process ~4.5M records.
+- Focused on reducing lead times and streamlining inventory flow for large-scale operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🏭 Manufacturing Line Optimization
+*Honing Stage Bottleneck Analysis.*
+- Engineered a parallel processing model to resolve a **15% Takt time mismatch**.
+- Improved overall throughput and reduced idle time in bearing production simulations.
+
+### 🤖 Crop Disease Prediction (Computer Vision)
+*Smart India Hackathon '24 | Top 25 College Level.*
+- Built a computer vision model to assist in agricultural sustainability by predicting crop health.
+- Integrated hardware awareness with software-driven predictive analytics.
+
+---
+
+## 📈 Key Achievements & Focus
+- **Industrial Impact:** Currently exploring advanced optimization techniques for FMCG packaging and logistics.
+- **Continuous Learning:** Transitioning from foundational mechanical design to high-level system consulting and AI-driven industrial solutions.
+- **Resolution:** Expanding my technical vocabulary and domain expertise every single day.
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 paridhikapoor2004@gmail.com
+- 💼 www.linkedin.com/in/paridhikapoor
+- ✍️ 
+---
+*“Optimizing the world, one system at a time.”*
